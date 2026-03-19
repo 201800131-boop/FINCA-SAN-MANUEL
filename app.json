@@ -27,13 +27,7 @@
       "permissions": []
     },
     "plugins": [
-      "expo-font",
-      [
-        "expo-sqlite",
-        {
-          "enableFTS": true
-        }
-      ]
+      "expo-font"
     ]
   }
 }
